@@ -1,1 +1,3 @@
-# algorithm-javascript
+# Algorithm-javascript
+
+write much algorithm 
